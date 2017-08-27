@@ -29,12 +29,12 @@ rm -r .git/
 3. Install dependencies
 
 ```
-npm install | yarn
+npm install
 ```
 
 4. Run development server
 ```
-npm run start:dev | yarn start:dev
+npm run start:dev
 ```
 
 5. Go to localhost:8080 and you should see `Hello World!!`
@@ -45,17 +45,17 @@ For tests we use Jest.
 
 To watch tests and files for changes.
 ```
-npm run test:watch | yarn test:watch
+npm run test:watch
 ```
 
 To run tests with coverage.
 ```
-npm run test | yarn test
+npm run test
 ```
 
 ## Deployment
 
-We can build this project into a html and js bundles. Use `npm run build | yarn build` to get the bundles ready for production.
+We can build this project into a html and js bundles. Use `npm run build` to get the bundles ready for production.
 
 ## Features
 
