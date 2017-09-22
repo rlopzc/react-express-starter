@@ -68,7 +68,7 @@ We can build this project into a html and js bundles. Use `npm run build` to get
 
 * **Romario Lopez** - *Initial work*
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/romariolopezc/react-express-starter/graphs/contributors) who participated in this project.
 
 ## License
 
